@@ -2,6 +2,8 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  font-style: normal;
+  text-decoration: none;
 }
 
 body {
@@ -27,6 +29,7 @@ blockquote {
 
 a {
   color: inherit;
+
 }
 
 img {
